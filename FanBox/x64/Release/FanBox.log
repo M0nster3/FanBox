@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\wangpengqi\Desktop\VScode\FanBox\FanBox\main.cpp(28,14): warning C4269: “CLSID_WbemLocator”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+  正在生成代码
+  1 of 10 functions (10.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  FanBox.vcxproj -> C:\Users\wangpengqi\Desktop\VScode\FanBox\x64\Release\FanBox.exe
